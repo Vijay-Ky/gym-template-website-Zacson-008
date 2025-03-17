@@ -1,4 +1,4 @@
-Thank you for using our template!
+Live Demo: https://vijay-ky.github.io/gym-template-website-Zacson-008/
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
 
